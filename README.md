@@ -9,7 +9,7 @@ The package allows you to upload a CSV file and import the data into database.
 ## Installation
 Install with command
 ```bash
-  composer require aliportfolio/CsvImporter
+  composer require aliportfolio/csv-importer
 ```
 
 ## Usage/Examples
