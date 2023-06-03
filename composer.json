@@ -1,0 +1,23 @@
+{
+    "name": "aliportfolio/csv-importer",
+    "description": "The package allows you to upload a CSV file and import the data into database.",
+    "type": "library",
+    "require": {
+        "php": ">=8.0",
+        "illuminate/support": ">=8.0",
+        "league/csv": ">=9.8"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Aliportfolio\\CsvImporter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ali Al Saleh",
+            "email": "3lialsale7@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
